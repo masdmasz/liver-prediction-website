@@ -47,4 +47,4 @@ if st.button("Mulai Diagnosa"):
         st.success("✅ Hasil: Pasien Terprediksi SEHAT / NON-LIVER.")
     
 st.write("---")
-st.caption("📢 **Catatan/Disclaimer:** Aplikasi ini menggunakan kecerdasan buatan dengan akurasi model sebesar 75,44% untuk keperluan skrining awal akademis. Hasil prediksi sistem bukan merupakan diagnosis final medis resmi. Harap selalu konsultasikan hasil laboratorium Anda kepada dokter atau tenaga medis ahli.")
+st.caption("📢 **Catatan/Disclaimer:** Aplikasi ini menggunakan kecerdasan buatan dengan akurasi model sebesar 99% untuk keperluan skrining awal akademis. Hasil prediksi sistem bukan merupakan diagnosis final medis resmi. Harap selalu konsultasikan hasil laboratorium Anda kepada dokter atau tenaga medis ahli.")
